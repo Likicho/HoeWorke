@@ -1,0 +1,41 @@
+/*header styles*/
+.logo {
+	display: inline-block;
+	margin-right: 50px;
+}
+.navigation {
+	display: inline-block; 
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 22px;
+}
+.nav-a {
+	font-size: 22px;
+	color: #3D58A6
+}
+/*bg-image*/
+.img {
+	background-image: url("../Sacdeli/img.im1.jpg");
+	height: 460px;
+	width: 1170px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+}
+
+
+/*section#2*/
+.left-aricle {
+
+	width: 570px;
+	background-color: lightblue;
+}
+.right-article {
+	width:570px; 
+	background-color:yellow;
+}
+.article-wrapper {
+	display: flex;
+}
